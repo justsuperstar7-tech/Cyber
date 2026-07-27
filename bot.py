@@ -10,7 +10,7 @@ from telegram.ext import Application, CommandHandler, CallbackQueryHandler, Cont
 # 🔥 CONFIG - MAIN & CO-ADMINS
 # ============================================
 
-BOT_TOKEN = "8791863136:AAEa3-sW3XPsn991-TjTgnVuG2izUSmvnhM"
+BOT_TOKEN = "8633382569:AAFs7PxheSwQ2O_1-Hj4vMNEz7NtBf4JK7A"
 MAIN_ADMIN = 8603893462
 CO_ADMINS = [7659172575]
 ADMIN_IDS = [8603893462, 7659172575]
