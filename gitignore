@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.env
+escrow_data.json
+.DS_Store
+*.log
